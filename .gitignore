@@ -1,0 +1,7 @@
+#*.gem
+support/*
+tmp/*
+coverage/*
+.DS_Store
+.bundle/*
+.idea/*
